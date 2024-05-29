@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Comfortaa:wght@300..700&display=swap');
+
+html, h1{
+    font-family: "Caveat", cursive;
+    font-size: 24px
+}
+
+html, h2{
+    font-family: "Comfortaa", cursive;
+    font-size: 24px
+}
+
+html, h3{
+    font-family: "Comfortaa", cursive;
+    font-size: 24px
+}
